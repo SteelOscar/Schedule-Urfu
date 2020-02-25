@@ -1,1 +1,1 @@
-# Schedule UrFU(Бот для Telegram)
+# Schedule UrFU(Bot for Telegram)
